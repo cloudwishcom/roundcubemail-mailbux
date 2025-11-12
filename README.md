@@ -1,6 +1,9 @@
-Roundcube Webmail
+Roundcube Webmail for Mailbux.com
 =================
-[roundcube.net](https://roundcube.net)
+[mailbux.com](https://mailbux.com)
+
+Mailbux Unlimited Business Email Hosting. 100% Free.
+Get professional email at your domain for $0/month. No hidden fees, no trial periods, and unlimited mailboxes. Just powerful, free email for your business.
 
 [![Tests Status](https://github.com/roundcube/roundcubemail/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/roundcube/roundcubemail/actions/workflows/tests.yml)
 
